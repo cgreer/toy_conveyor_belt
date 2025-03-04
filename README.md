@@ -5,7 +5,7 @@ A 3D printable Toy Conveyor Belt w/ a Factorio transporter belt aesthetic
 
 
 ## How to build
-The build plates have the layer heights and colors designated in the name. For e.g. "Light Gray 20" reads "Print with light gray filament w/ 0.20 layer height". For assembly instructions, watch the TODO video.
+The build plates have the layer heights and colors designated in the name. For e.g. "Light Gray 20" reads "Print with light gray filament w/ 0.20 layer height". For assembly instructions, watch the [assembly portion](https://youtu.be/uJ_CC4abBj0) of the design video.
 
 
 These are the colors I used: 
